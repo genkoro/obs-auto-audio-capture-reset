@@ -1,6 +1,10 @@
 # キャプチャ音声の自動リセット
 
-[![ダウンロード](https://img.shields.io/badge/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-v3.4.6-2ea44f?style=for-the-badge)](https://github.com/genkoro/obs-auto-audio-capture-reset/releases/download/v3.4.6/obs-auto-audio-capture-reset-v3.4.6.zip)
+<p align="center">
+  <a href="https://github.com/genkoro/obs-auto-audio-capture-reset/releases/download/v3.4.6/obs-auto-audio-capture-reset-v3.4.6.zip">
+    <img src="assets/download-button.svg" alt="ダウンロードはこちら（v3.4.6）" width="420">
+  </a>
+</p>
 
 **v3.4.6** ／ Windows版OBS Studio用Luaスクリプト
 
