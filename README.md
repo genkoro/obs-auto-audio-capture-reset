@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/genkoro/obs-auto-audio-capture-reset/releases/download/v3.4.6/obs-auto-audio-capture-reset-v3.4.6.zip">
-    <img src="assets/download-button.svg" alt="ダウンロードはこちら（v3.4.6）" width="210">
+    <img src="assets/download-button.svg" alt="ダウンロードはこちら（v3.4.6）" width="220">
   </a>
 </p>
 
