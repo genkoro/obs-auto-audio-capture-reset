@@ -1,14 +1,13 @@
 # キャプチャ音声の自動リセット
 
 **v3.4.6｜OBSWindows版｜Luaスクリプト**  
+指定した音声キャプチャを、定期的にリセットします。映像設定は変更しません。
 
 <p align="center">
   <a href="https://github.com/genkoro/obs-auto-audio-capture-reset/releases/download/v3.4.6/obs-auto-audio-capture-reset-v3.4.6.zip">
     <img src="assets/download-button.svg" alt="ダウンロードはこちら（v3.4.6）" width="220">
   </a>
 </p>
-
-指定した音声キャプチャを、定期的にリセットします。映像設定は変更しません。
 
 ## 1. 使い方
 
