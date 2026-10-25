@@ -11,8 +11,8 @@
 
 ## 1. 使い方
 
-1. ZIPを解凍し「`obs_auto_audio_capture_reset.lua`」を任意のフォルダに入れます。
-2. OBSの「ツール → スクリプト → ＋」から「`obs_auto_audio_capture_reset.lua`」を追加します。
+1. ZIPを解凍し「`obs_auto_audio_capture_reset.lua`」を任意のフォルダに置きます。
+2. OBSの「ツール → スクリプト → ＋」からフォルダに入れた.luaファイルを追加します。
 2. 必要に応じて「音源」「間隔 (分)」「動作」を設定します。
 3. 手動でリセットしたい場合は「今すぐリセット」を使ってください。
 
