@@ -6,7 +6,7 @@
   </a>
 </p>
 
-**v3.4.6** ／ Windows版OBS Studio用Luaスクリプト
+Windows版OBS Studio用 ／ Luaスクリプト
 
 ## 1．使い方
 
