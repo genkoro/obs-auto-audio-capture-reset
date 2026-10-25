@@ -28,7 +28,7 @@ Windows版OBS Studio用 ／ Luaスクリプト
 OBS本体の対象音源のプロパティで、「音声をキャプチャ（ベータ版）」を有効にしてください。下の画像はゲームキャプチャの設定例です。
 
 <p align="center">
-  <img src="assets/game-capture-audio-setting.png" alt="ゲームキャプチャのプロパティにある音声をキャプチャ（ベータ版）のチェック項目" width="680">
+  <img src="assets/game-capture-audio-setting-redbox.png" alt="ゲームキャプチャのプロパティにある音声をキャプチャ（ベータ版）のチェック項目" width="680">
 </p>
 
 ※アプリケーション音声キャプチャを使用する場合、このチェック設定は不要です。
