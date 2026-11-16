@@ -9,6 +9,18 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>不具合報告・機能追加のご要望</strong><br>
+  動作に問題があった場合や、追加してほしい機能がある場合は、以下からお気軽にご報告ください。
+</p>
+
+<p align="center">
+  <a href="https://github.com/genkoro/obs-auto-audio-capture-reset/issues/new/choose">
+    <img src="assets/feedback-button.svg" alt="不具合報告・ご要望はこちら" width="240">
+  </a><br>
+  <sub>投稿には無料のGitHubアカウントが必要です。報告内容は公開されます。</sub>
+</p>
+
 ## 1. 使い方
 
 1. ZIPを解凍し「`obs_auto_audio_capture_reset.lua`」を任意のフォルダに置きます。
