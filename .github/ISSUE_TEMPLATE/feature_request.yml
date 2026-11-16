@@ -1,0 +1,32 @@
+name: "機能追加・改善の要望"
+description: "追加してほしい機能や、使いやすくするための改善案を送ります"
+title: "[要望] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ご提案ありがとうございます。実現したいことを自由にお書きください。
+        投稿内容はインターネット上に公開されます。個人情報や秘密情報は記載しないでください。
+  - type: textarea
+    id: requested-feature
+    attributes:
+      label: "追加・改善してほしい機能"
+      description: "どのような機能や変更を希望しますか？"
+      placeholder: "例：複数の音源をまとめてリセットできるようにしてほしい"
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: "希望する理由・使いたい場面"
+      description: "現在どのようなことで困っているか、どう使いたいかを教えてください。"
+      placeholder: "例：配信中に複数のキャプチャ音源を使っているため"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: "補足・具体的な案（任意）"
+      description: "操作イメージや代替案などがあればご記入ください。"
+    validations:
+      required: false
