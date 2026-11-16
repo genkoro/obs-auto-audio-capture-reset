@@ -1,0 +1,70 @@
+name: "不具合報告"
+description: "音声リセットの不具合や正常に動作しない症状を報告します"
+title: "[不具合] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ご報告ありがとうございます。分かる範囲でご記入ください。
+        投稿内容はインターネット上に公開されます。個人情報や秘密情報は記載しないでください。
+  - type: textarea
+    id: problem
+    attributes:
+      label: "発生した症状"
+      description: "何が起きましたか？ 本来どう動いてほしかったかも記載してください。"
+      placeholder: "例：自動リセット後も音声がブツブツする／手動リセットで音声が戻らない"
+    validations:
+      required: true
+  - type: input
+    id: obs-version
+    attributes:
+      label: "OBS Studioのバージョン"
+      placeholder: "例：33.0.0"
+    validations:
+      required: true
+  - type: input
+    id: script-version
+    attributes:
+      label: "スクリプトのバージョン"
+      placeholder: "例：v3.4.6"
+    validations:
+      required: false
+  - type: input
+    id: windows-version
+    attributes:
+      label: "Windowsのバージョン"
+      placeholder: "例：Windows 11 24H2"
+    validations:
+      required: false
+  - type: dropdown
+    id: source-type
+    attributes:
+      label: "問題が起きた音源"
+      options:
+        - "アプリケーション音声キャプチャ"
+        - "ゲームキャプチャ"
+        - "ウィンドウキャプチャ"
+        - "複数の音源"
+        - "不明・その他"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "再現手順"
+      description: "どの操作で問題が起きますか？ 不定期に発生する場合は、その旨を記載してください。"
+      placeholder: |
+        1. OBSを起動する
+        2. 対象音源を選ぶ
+        3. 自動／手動リセットを実行する
+        4. 問題が発生する
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: "ログ・画像など（任意）"
+      description: "OBSの「ツール → スクリプト → スクリプトログ」内の該当箇所や、スクリーンショットを貼り付けてください。個人情報や秘密情報は削除してください。"
+      placeholder: "エラーメッセージ、ログ、スクリーンショットなど"
+    validations:
+      required: false
