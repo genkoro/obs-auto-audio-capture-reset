@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="100" viewBox="0 0 480 100" role="img" aria-labelledby="title description">
+  <title id="title">不具合報告・ご要望はこちら</title>
+  <desc id="description">GitHub Issues の不具合報告・機能追加の要望フォームを開く</desc>
+  <rect width="480" height="100" rx="50" fill="#258EBA"/>
+  <g fill="#FFFFFF" text-anchor="middle" font-family="'Noto Sans JP', 'Yu Gothic', Meiryo, sans-serif">
+    <text x="240" y="59" font-size="28" font-weight="700">不具合報告・ご要望はこちら</text>
+  </g>
+</svg>
